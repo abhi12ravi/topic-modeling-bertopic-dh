@@ -10,4 +10,4 @@ Session details: [Analytics Vidhya Data Hour](https://datahack.analyticsvidhya.c
 
 
 ## Credits
-1. BERTOpic explained - [YouTube video](https://www.youtube.com/watch?v=fb7LENb9eag)
+1. BERTOpic explained - [YouTube video](https://www.youtube.com/watch?v=fb7LENb9eag) by James Briggs
